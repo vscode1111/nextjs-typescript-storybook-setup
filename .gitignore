@@ -1,5 +1,6 @@
 .idea
 .DS_STORE
+.next
 node_modules
 .module-cache
 *.log*
